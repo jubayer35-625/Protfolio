@@ -1,0 +1,22 @@
+
+
+.text{
+    color: black;
+    margin-top: 210px;
+    position:absolute;
+    
+
+}
+
+body{
+    background-image: url(img/banner_home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+
+}
+
+p{
+
+    font-size: 30px;
+}
